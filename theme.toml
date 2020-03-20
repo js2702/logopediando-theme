@@ -1,8 +1,8 @@
 name = "Startbootstrap Clean Blog"
 license = "Apache 2.0"
-licenselink = "https://github.com/humboldtux/startbootstrap-clean-blog/blob/master/LICENSE.md"
+licenselink = "https://github.com/js2702/startbootstrap-clean-blog/blob/master/LICENSE.md"
 description = "Startbootstrap Clean Blog"
-homepage = "https://github.com/humboldtux/startbootstrap-clean-blog"
+homepage = "https://github.com/js2702/startbootstrap-clean-blog"
 tags = ["blog", "bootstrap"]
 features = ["blog", "bootstrap"]
 min_version = 0.18
